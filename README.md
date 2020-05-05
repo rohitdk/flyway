@@ -1,2 +1,2 @@
 # Flyway - Database migration
-This example is for integration of springboot app with flyway
+ Integration of springboot app with flyway for database migration
